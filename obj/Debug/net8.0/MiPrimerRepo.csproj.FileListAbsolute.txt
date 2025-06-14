@@ -1,0 +1,5 @@
+/workspaces/MiPrimerRepo/obj/Debug/net8.0/MiPrimerRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiPrimerRepo/obj/Debug/net8.0/MiPrimerRepo.AssemblyInfoInputs.cache
+/workspaces/MiPrimerRepo/obj/Debug/net8.0/MiPrimerRepo.AssemblyInfo.cs
+/workspaces/MiPrimerRepo/obj/Debug/net8.0/MiPrimerRepo.csproj.CoreCompileInputs.cache
+/workspaces/MiPrimerRepo/obj/Debug/net8.0/MiPrimerRepo.sourcelink.json
